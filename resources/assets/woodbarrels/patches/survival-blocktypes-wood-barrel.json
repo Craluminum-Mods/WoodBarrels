@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/tpHandTransform/scale",
+    "value": 0.44,
+    "file": "game:blocktypes/wood/barrel.json"
+  },
+  {
+    "op": "add",
+    "path": "/guiTransform",
+    "value": { "scale": 1.2 },
+    "file": "game:blocktypes/wood/barrel.json",
+    "dependsOn": [{ "modid": "vanvar" }]
+  }
+]
