@@ -4,7 +4,7 @@
   "entityClass": "Barrel",
   "behaviors": [{ "name": "UnstableFalling" }],
   "shape": { "base": "game:block/wood/barrel/empty" },
-  "creativeinventory": { "cralwv": ["*"] },
+  "creativeinventory": { "general": ["*"], "decorative": ["*"], "cralwv": ["*"] },
   "blockmaterial": "Wood",
   "replaceable": 900,
   "resistance": 1.5,
