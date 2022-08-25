@@ -3,8 +3,8 @@
   "modid": "woodbarrels",
   "name": "Wood Barrels",
   "authors": ["Craluminum2413"],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
-    "game": "1.16.0"
+    "game": "1.17.0-rc.1"
   }
 }
