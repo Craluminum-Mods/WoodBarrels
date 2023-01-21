@@ -1,17 +1,3 @@
 {
-  "game:tabname-cralwv": "Wood Variants",
-
-  "game:block-barrel": "Oak barrel",
-  "woodbarrels:block-wbarrel-acacia": "Acacia barrel",
-  "woodbarrels:block-wbarrel-aged": "Aged barrel",
-  "woodbarrels:block-wbarrel-baldcypress": "Bald cypress barrel",
-  "woodbarrels:block-wbarrel-birch": "Birch barrel",
-  "woodbarrels:block-wbarrel-ebony": "Ebony barrel",
-  "woodbarrels:block-wbarrel-kapok": "Kapok barrel",
-  "woodbarrels:block-wbarrel-larch": "Larch barrel",
-  "woodbarrels:block-wbarrel-maple": "Maple barrel",
-  "woodbarrels:block-wbarrel-pine": "Pine barrel",
-  "woodbarrels:block-wbarrel-purpleheart": "Purpleheart barrel",
-  "woodbarrels:block-wbarrel-redwood": "Redwood barrel",
-  "woodbarrels:block-wbarrel-walnut": "Walnut barrel"
+    "game:tabname-cralwv": "Wood Variants"
 }

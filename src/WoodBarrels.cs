@@ -10,6 +10,7 @@ namespace WoodBarrels
         public override void Start(ICoreAPI api)
         {
             base.Start(api);
+            api.RegisterBlockClass("WoodBarrels_BlockWoodBarrel", typeof(BlockWoodBarrel));
             api.World.Logger.Event("started 'Wood Barrels' mod");
         }
     }
