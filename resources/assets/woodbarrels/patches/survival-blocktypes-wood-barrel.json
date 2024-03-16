@@ -1,9 +1,11 @@
 [
-  {
-    "op": "replace",
-    "path": "/tpHandTransform/scale",
-    "value": 0.44,
-    "file": "game:blocktypes/wood/barrel.json",
-    "side": "server"
-  }
+    {
+        "op": "add",
+        "path": "/textures/aged",
+        "value": {
+            "base": "block/wood/debarked/oak"
+        },
+        "file": "game:blocktypes/wood/barrel.json",
+        "side": "Server"
+    }
 ]
