@@ -19,9 +19,8 @@
     "variantgroups": [{ "code": "type", "states": ["aged"], "loadFromProperties": "block/wood" }],
     "skipVariants": ["*-oak"],
     "textures": {
-        "lidtop": { "base": "game:block/wood/debarked/{type}" },
-        "lidbottom": { "base": "game:block/wood/debarked/{type}" },
-        "wood": { "base": "game:block/wood/debarked/{type}" }
+        "bottom": { "base": "game:block/wood/debarked/{type}" },
+        "aged": { "base": "game:block/wood/debarked/{type}" }
     },
     "attributes": {
         "handbook": { "groupBy": ["wbarrel-*"] },
