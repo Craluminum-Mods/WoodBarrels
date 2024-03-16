@@ -2,7 +2,7 @@
     "ingredientPattern": "SPS,__P,SPS",
     "ingredients": {
         "S": { "type": "item", "code": "game:stick" },
-        "P": { "type": "item", "code": "game:plank-*", "name": "wood" }
+        "P": { "type": "item", "code": "game:plank-*", "name": "wood", "skipVariants": ["oak"] }
     },
     "width": 3,
     "height": 3,
