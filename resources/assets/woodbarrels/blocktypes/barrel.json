@@ -1,8 +1,14 @@
 {
     "code": "wbarrel",
-    "class": "WoodBarrels_BlockWoodBarrel",
+    "class": "BlockBarrel",
     "entityClass": "Barrel",
-    "behaviors": [{ "name": "UnstableFalling" }],
+    "behaviors": [
+        { "name": "UnstableFalling" },
+        {
+            "name": "WoodBarrels.Name",
+            "properties": { "parts": ["block-barrel", " (", "material-{type}", ")"] }
+        }
+    ],
     "shape": { "base": "game:block/wood/barrel/empty" },
     "creativeinventory": { "general": ["*"], "decorative": ["*"], "cralwv": ["*"] },
     "blockmaterial": "Wood",
