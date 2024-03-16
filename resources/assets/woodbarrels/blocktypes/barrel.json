@@ -10,7 +10,7 @@
         }
     ],
     "shape": { "base": "game:block/wood/barrel/empty" },
-    "creativeinventory": { "general": ["*"], "decorative": ["*"], "cralwv": ["*"] },
+    "creativeinventory": { "general": ["*"], "decorative": ["*"] },
     "blockmaterial": "Wood",
     "replaceable": 900,
     "resistance": 1.5,
